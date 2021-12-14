@@ -1,5 +1,5 @@
 <center><img align=”middle” src="ic_logo.png"></center>
-__________________________________________________________________________________________________________________
+_______________________________________________________________________________________________
 
 # Pasos para Instalar Y Clonar Proyectos Laravel en ubuntu 20.04+ en su versiones mas Actuales:
 
@@ -29,6 +29,3 @@ para clonar dicho repositorio, deben de tener acceso a dicho repo, ya que es un 
 ## migraciones ya existentes, al igual estan las migraciones con seeders, los cuales nos permite realizar pruebas:
 
 - php artisan migrate and seeds php artisan migrate --seed.
-
-</body>
-</html>
