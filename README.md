@@ -1,7 +1,5 @@
 # Markdown
 
-<img align=”middle” src="ic_logo.png">
-
 _______________________________________________________________________________________________
 
 # Pasos para Instalar Y Clonar Proyectos Laravel en ubuntu 20.04+ en su versiones mas Actuales:
